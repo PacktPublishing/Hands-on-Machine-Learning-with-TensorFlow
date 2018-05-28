@@ -8,7 +8,7 @@ With this course you'll learn to take your data analysis and Python programming 
 
 
 
-## Instructions and Navigation
+
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for data analysts and aspiring data science professionals| who now want to extend their skillset to include Machine Learning and would like to achieve this aim easily using TensorFlow. No knowledge of TensorFlow is needed. Python programming knowledge is assumed.
